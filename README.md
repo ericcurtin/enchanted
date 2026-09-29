@@ -130,7 +130,7 @@ Enchanted works with any server that speaks the Ollama API. [llmman](https://git
 1. Install llmman, start the server and pull a model:
 
    ```shell
-   curl -fsSL https://raw.githubusercontent.com/llmmanorg/llmman/main/install.sh | sh
+   curl -fsSL https://llmmanorg.github.io/install.sh | sh
    llmman serve
    llmman pull gemma4
    ```
